@@ -40,6 +40,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 import com.parse.ParseInstallation;
 import com.squareup.picasso.Picasso;
+import com.swc.onestop.Activities.Main2Activity;
 
 import org.json.JSONObject;
 
@@ -80,52 +81,28 @@ public class HomeActivity extends AppCompatActivity {
     private long lastClickTime = 0;
     public static Drawable d = null;
 
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//        auth = FirebaseAuth.getInstance();
-//        ParseInstallation installation = ParseInstallation.getCurrentInstallation();
-//        installation.put("GCMSenderId", "1086466113456");
-//        installation.put("UserEmail", auth.getCurrentUser().getEmail());
-//        installation.saveInBackground();
         setContentView(R.layout.activity_home);
-//        Log.e("Name ", ""+auth.getCurrentUser().getDisplayName());
-//        Log.e("Name ", ""+auth.getCurrentUser().getEmail());
         toolbar = findViewById(R.id.toolbar);
-       // dl = (DrawerLayout)findViewById(R.id.activity_main);
+        dl = (DrawerLayout)findViewById(R.id.activity_main);
         nv = (NavigationView)findViewById(R.id.nv);
-        //t = new ActionBarDrawerToggle(this, dl, toolbar, R.string.open, R.string.close);
+        t = new ActionBarDrawerToggle(this, dl, toolbar, R.string.open, R.string.close);
         setSupportActionBar(toolbar);
-        //dl.addDrawerListener(t);
-        //t.syncState();
-
-
+        dl.addDrawerListener(t);
+        t.syncState();
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // back button pressed
+                startActivity(new Intent(HomeActivity.this, Main2Activity.class));
+                finish();
+            }
+        });
         View header = nv.getHeaderView(0);
         profilename = header.findViewById(R.id.profilenamenv);
         final TextView profileemail = header.findViewById(R.id.profileemailnv);
-//        profilename.setText(auth.getCurrentUser().getDisplayName().toUpperCase());
-//        profileemail.setText(auth.getCurrentUser().getEmail());
-//          profilename.setText("SAITAMA");
- //         profileemail.setText("Strongest@HeroAssociation.inc");
-        // Building profile image from initials
-
-       // profileimg = header.findViewById(R.id.profile_imagenv);
-//        ColorGenerator generator = ColorGenerator.MATERIAL;
-//        int color = generator.getColor(auth.getCurrentUser().getEmail());
-//        String initials = "";
-//        for (String s : auth.getCurrentUser().getDisplayName().split(" ")) {
-//            initials+=s.charAt(0);
-//        }
-//        int len = initials.length();
-//        if(len>1) {
-//            initials = ""+initials.charAt(0)+initials.charAt(len-1);
-//        }
-       // TextDrawable profileimgdrawable = TextDrawable.builder().beginConfig().width(144).height(144).fontSize(48).endConfig().buildRound("AC", 0);
-        //profileimg.setImageDrawable(profileimgdrawable);
 
         final Activity ac = this;
 
@@ -188,7 +165,7 @@ public class HomeActivity extends AppCompatActivity {
             }
         }
 
-//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 //        nv.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
 //            @Override
 //            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
@@ -229,19 +206,6 @@ public class HomeActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
-
-//    @Override
-//    public void onBackPressed() {
-//
-//        if (dl.isDrawerOpen(GravityCompat.START)) {
-//            dl.closeDrawer(GravityCompat.START);
-//        } else {
-//            super.onBackPressed();
-//
-//        }
-//    }
-
-
 
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {

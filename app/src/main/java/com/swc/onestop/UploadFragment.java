@@ -167,7 +167,6 @@ public class UploadFragment extends Fragment {
     public void onViewCreated(View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         isathome=false;
-        FAB=getView().findViewById(R.id.FindPaper);
         btntype = getView().findViewById(R.id.paperbtn);
         uploadpdf = getView().findViewById(R.id.btn_upload);
         browsepdf = (Button) getView().findViewById(R.id.btn_browse);
@@ -230,13 +229,13 @@ public class UploadFragment extends Fragment {
             public void afterTextChanged(Editable s) {
             }
         });
-        FAB.setOnClickListener(new View.OnClickListener() {
+        Toolbar toolbar=getActivity().findViewById(R.id.toolbar);
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 ((HomeActivity) getActivity()).getSupportFragmentManager().beginTransaction().replace(R.id.frame_container, new FindFragment()).commit();
             }
         });
-
         uploadpdf.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

@@ -2078,7 +2078,6 @@ id BOTTOM_START
 id CTRL
 id Cultural
 id FUNCTION
-id FindPaper
 id Hab
 id LinearLayout1
 id META

@@ -186,16 +186,16 @@
                 android:layout_marginTop="10dp"
                 app:initialCornerAngle="45dp"
                 app:finalCornerAngle="45dp"/>
-            <com.google.android.material.floatingactionbutton.FloatingActionButton
-                android:id="@+id/FindPaper"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="250dp"
-                android:layout_marginTop="40dp"
-                android:layout_marginBottom="10dp"
-                android:src="@drawable/ic_search_black_128dp"
-                android:contentDescription="Searach for papers"
- />
+<!--            <com.google.android.material.floatingactionbutton.FloatingActionButton-->
+<!--                android:id="@+id/FindPaper"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="250dp"-->
+<!--                android:layout_marginTop="40dp"-->
+<!--                android:layout_marginBottom="10dp"-->
+<!--                android:src="@drawable/ic_search_black_128dp"-->
+<!--                android:contentDescription="Searach for papers"-->
+<!-- />-->
         </LinearLayout>
     </ScrollView>
 

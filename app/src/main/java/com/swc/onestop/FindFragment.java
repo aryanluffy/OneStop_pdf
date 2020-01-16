@@ -5,6 +5,7 @@ import android.app.AlertDialog;
 import android.app.DownloadManager;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.graphics.Path;
 import android.net.Uri;
 import android.os.Bundle;
@@ -41,6 +42,7 @@ import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
+import com.swc.onestop.Activities.Main2Activity;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -166,6 +168,14 @@ public class FindFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 ((HomeActivity) getActivity()).getSupportFragmentManager().beginTransaction().replace(R.id.frame_container, new UploadFragment()).commit();
+            }
+        });
+        Toolbar toolbar=getActivity().findViewById(R.id.toolbar);
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(getActivity(), Main2Activity.class);
+                startActivity(intent);
             }
         });
         coursecodein.getEditText().addTextChangedListener(new TextWatcher() {

@@ -87,40 +87,40 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int action_container = 0x7f0a0051;
-        public static final int action_divider = 0x7f0a0053;
-        public static final int action_image = 0x7f0a0054;
-        public static final int action_text = 0x7f0a005b;
-        public static final int actions = 0x7f0a005c;
-        public static final int async = 0x7f0a0079;
-        public static final int blocking = 0x7f0a0091;
-        public static final int bottom = 0x7f0a0094;
-        public static final int chronometer = 0x7f0a00be;
-        public static final int end = 0x7f0a0109;
-        public static final int forever = 0x7f0a0126;
-        public static final int glide_custom_view_target_tag = 0x7f0a012e;
-        public static final int icon = 0x7f0a0143;
-        public static final int icon_group = 0x7f0a0145;
-        public static final int info = 0x7f0a015c;
-        public static final int italic = 0x7f0a0160;
-        public static final int left = 0x7f0a016c;
-        public static final int line1 = 0x7f0a0171;
-        public static final int line3 = 0x7f0a0172;
-        public static final int none = 0x7f0a01cd;
-        public static final int normal = 0x7f0a01ce;
-        public static final int notification_background = 0x7f0a01cf;
-        public static final int notification_main_column = 0x7f0a01d0;
-        public static final int notification_main_column_container = 0x7f0a01d1;
-        public static final int right = 0x7f0a0235;
-        public static final int right_icon = 0x7f0a0236;
-        public static final int right_side = 0x7f0a0237;
-        public static final int start = 0x7f0a0285;
-        public static final int tag_transition_group = 0x7f0a02ab;
-        public static final int text = 0x7f0a02b3;
-        public static final int text2 = 0x7f0a02b5;
-        public static final int time = 0x7f0a02c7;
-        public static final int title = 0x7f0a02c9;
-        public static final int top = 0x7f0a02d2;
+        public static final int action_container = 0x7f0a0050;
+        public static final int action_divider = 0x7f0a0052;
+        public static final int action_image = 0x7f0a0053;
+        public static final int action_text = 0x7f0a005a;
+        public static final int actions = 0x7f0a005b;
+        public static final int async = 0x7f0a0078;
+        public static final int blocking = 0x7f0a0090;
+        public static final int bottom = 0x7f0a0093;
+        public static final int chronometer = 0x7f0a00bd;
+        public static final int end = 0x7f0a0108;
+        public static final int forever = 0x7f0a0125;
+        public static final int glide_custom_view_target_tag = 0x7f0a012d;
+        public static final int icon = 0x7f0a0142;
+        public static final int icon_group = 0x7f0a0144;
+        public static final int info = 0x7f0a015b;
+        public static final int italic = 0x7f0a015f;
+        public static final int left = 0x7f0a016b;
+        public static final int line1 = 0x7f0a0170;
+        public static final int line3 = 0x7f0a0171;
+        public static final int none = 0x7f0a01cc;
+        public static final int normal = 0x7f0a01cd;
+        public static final int notification_background = 0x7f0a01ce;
+        public static final int notification_main_column = 0x7f0a01cf;
+        public static final int notification_main_column_container = 0x7f0a01d0;
+        public static final int right = 0x7f0a0234;
+        public static final int right_icon = 0x7f0a0235;
+        public static final int right_side = 0x7f0a0236;
+        public static final int start = 0x7f0a0284;
+        public static final int tag_transition_group = 0x7f0a02aa;
+        public static final int text = 0x7f0a02b2;
+        public static final int text2 = 0x7f0a02b4;
+        public static final int time = 0x7f0a02c6;
+        public static final int title = 0x7f0a02c8;
+        public static final int top = 0x7f0a02d1;
     }
     public static final class integer {
         private integer() {}
