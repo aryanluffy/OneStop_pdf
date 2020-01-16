@@ -167,7 +167,19 @@ public class FindFragment extends Fragment {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ((HomeActivity) getActivity()).getSupportFragmentManager().beginTransaction().replace(R.id.frame_container, new UploadFragment()).commit();
+                Fragment newFragment = new UploadFragment();
+                newFragment.setEnterTransition(new Slide(Gravity.RIGHT));
+                newFragment.setExitTransition(new Slide(Gravity.LEFT));
+                FragmentTransaction transaction = getActivity().getSupportFragmentManager().beginTransaction();
+
+                // Replace whatever is in the fragment_container view with this fragment,
+                // and add the transaction to the back stack
+
+                transaction.replace(R.id.frame_container, newFragment);
+                transaction.addToBackStack(null);
+
+                // Commit the transaction
+                transaction.commit();
             }
         });
         Toolbar toolbar=getActivity().findViewById(R.id.toolbar);

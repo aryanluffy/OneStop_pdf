@@ -233,9 +233,10 @@ public class UploadFragment extends Fragment {
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ((HomeActivity) getActivity()).getSupportFragmentManager().beginTransaction().replace(R.id.frame_container, new FindFragment()).commit();
+                (getActivity()).getSupportFragmentManager().beginTransaction().replace(R.id.frame_container, new FindFragment()).commit();
             }
         });
+
         uploadpdf.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

@@ -7,6 +7,7 @@ import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
+import androidx.appcompat.widget.Toolbar;
 
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -14,6 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+//import android.widget.Toolbar;
 
 import java.util.List;
 
@@ -96,6 +98,13 @@ public class ListFragment extends Fragment {
         Recycler_View_Adapter adapter = new Recycler_View_Adapter(data, getActivity().getApplication());
         recyclerView.setAdapter(adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+        Toolbar toolbar=getActivity().findViewById(R.id.toolbar);
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                ( getActivity()).getSupportFragmentManager().beginTransaction().replace(R.id.frame_container, new FindFragment()).commit();
+            }
+        });
     }
 
     @Override
@@ -108,7 +117,6 @@ public class ListFragment extends Fragment {
 //                    + " must implement OnFragmentInteractionListener");
 //        }
     }
-
     @Override
     public void onDetach() {
         super.onDetach();
