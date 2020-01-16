@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/outer_header.xml",
+        "source": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/src/main/res/layout/outer_header.xml"
+    },
+    {
+        "merged": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_profile.xml",
+        "source": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/profile_item.xml",
+        "source": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/src/main/res/layout/profile_item.xml"
+    },
+    {
+        "merged": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/details_item.xml",
+        "source": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/src/main/res/layout/details_item.xml"
+    },
+    {
+        "merged": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/inner_item.xml",
+        "source": "/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/src/main/res/layout/inner_item.xml"
+    }
+]

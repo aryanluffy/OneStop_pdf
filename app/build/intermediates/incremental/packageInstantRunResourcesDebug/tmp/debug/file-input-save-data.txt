@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jul 22 15:16:56 IST 2019
+0.baseType=DIRECTORY
+0.base=/home/nicky/Documents/SWC/Onestop 1.6/OneStop_IITG 1.6/app/build/intermediates/merged_assets/debug/out
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1

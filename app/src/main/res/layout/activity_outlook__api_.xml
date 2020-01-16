@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+    <ImageView
+        android:id="@+id/img"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/no_internet_illustration"/>
+
+    <TextView
+        android:layout_below="@id/img"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/guest_txt"
+        android:onClick="main_open"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat"
+        android:letterSpacing="0.1"
+        android:text="Just a second, powering up the servers from CSE Deptt"
+        android:textSize="16sp" />
+
+    <!--<TextView-->
+        <!--android:text="@string/welcome_text"-->
+        <!--android:textColor="#3f3f3f"-->
+        <!--android:textSize="50px"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginLeft="10dp"-->
+        <!--android:layout_marginTop="15dp"-->
+        <!--android:id="@+id/welcome"-->
+        <!--android:visibility="invisible"/>-->
+
+    <!--<TextView-->
+        <!--android:text="@string/loading"-->
+        <!--android:textColor="#3f3f3f"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginLeft="5dp"-->
+        <!--android:id="@+id/graphData"-->
+        <!--android:visibility="invisible"/>-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="0dip"-->
+        <!--android:layout_weight="1"-->
+        <!--android:gravity="center|bottom"-->
+        <!--android:orientation="vertical" >-->
+
+        <!--<Button-->
+            <!--android:text="@string/sign_out"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginBottom="15dp"-->
+            <!--android:textColor="#FFFFFF"-->
+            <!--android:background="#00a1f1"-->
+            <!--android:textAllCaps="false"-->
+            <!--android:id="@+id/clearCache"-->
+            <!--android:visibility="invisible" />-->
+    <!--</LinearLayout>-->
+</RelativeLayout>

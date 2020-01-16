@@ -1,0 +1,20 @@
+package com.swc.onestop;
+
+
+import android.net.Uri;
+import android.widget.ImageView;
+
+public class Data1 {
+    public String profilename;
+    public String profilescore;
+    public ImageView profileimg;
+    public Uri profileimgurl;
+    public String uid;
+
+    Data1(String profilename, String profilescore, ImageView profileimg, String uid) {
+        this.profilename = profilename;
+        this.profilescore = profilescore;
+        this.profileimg = profileimg;
+        this.uid = uid;
+    }
+}

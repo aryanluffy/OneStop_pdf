@@ -1,0 +1,1384 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f996241526f46f8148da048a952878dc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/690d7fcc42676e929a39812cdfae7110/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /home/aryan/.gradle/caches/transforms-2/files-2.1/d3b07ec69176af7aebcb7c1d3a2b3264/AndroidManifest.xml:2:1-11:12
+MERGED from [com.roughike:bottom-bar:2.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fee34e75b25e9afa7aa0b46284d10f38/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.daniel-stoneuk:material-about-library:2.4.2] /home/aryan/.gradle/caches/transforms-2/files-2.1/9c95ca59366d9571456b030e7f7f67c5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/AndroidManifest.xml:17:1-24:12
+MERGED from [com.ramotion.garlandview:garland-view:0.3.2] /home/aryan/.gradle/caches/transforms-2/files-2.1/bb5cd367764d004cacdfd48a89bf6566/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/b60374fbeac6cd6958094794872c8f77/AndroidManifest.xml:14:1-29:12
+MERGED from [com.github.mirrajabi:search-dialog:1.2.3] /home/aryan/.gradle/caches/transforms-2/files-2.1/b4529be7316138a9c10763c1cf80e7d2/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.arcadefire:nice-spinner:1.3.6] /home/aryan/.gradle/caches/transforms-2/files-2.1/06062f2e944f8dda5e9e0506a4c78262/AndroidManifest.xml:2:1-9:12
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/4f6c6efae90fffd710b9294e9d58e8f5/AndroidManifest.xml:2:1-16:12
+MERGED from [com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT] /home/aryan/.gradle/caches/transforms-2/files-2.1/93b67aa8fd0553274ca330247fd53363/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.preference:preference:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/82cf3dc5e26f4c04294f0c06cc19b12c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.microsoft.aad:adal:1.14.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8e3ad010be65252d84c153af45e34ca7/AndroidManifest.xml:2:1-16:12
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/54223531dc036f244fcbc08f8ffff726/AndroidManifest.xml:2:1-11:12
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/9ec4d965e957864605667f2c7ddc56a8/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha01] /home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6c87f34855d850e71a1b3182578cfacf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/99358782a6806d9271be90e9dafa8070/AndroidManifest.xml:17:1-24:12
+MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:2:1-106:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d105f90701e4854e5276a6720a189259/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/381755bd2f2cc201aa937705caa7d577/AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8785f9d78ee05a235be33ee65505b0dc/AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e4603947eaea0ce3df3f2a5c2c70b269/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/aryan/.gradle/caches/transforms-2/files-2.1/485ab1ff830acc5c2c05fb1480a7dfcf/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.parse-community.Parse-SDK-Android:fcm:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/46e62b255a6f0a13cbe66283223aead3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:10:1-24:12
+MERGED from [com.joanzapata.pdfview:android-pdfview:1.0.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/769c03cbe09be7aafdca619f2bd778b7/AndroidManifest.xml:20:119-25:12
+MERGED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:17:1-38:12
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/acd2543c6fd894909454fb6fd3651036/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/317e2f9eace307f14ac96f8136e9d158/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/55b7a03ffcdce057cbab821170fba50d/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c7216a7a8bd0aed909c5010237e5e67b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.volley:volley:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/0ef5979f6c497885d6b0a1019b3e7ba1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/f4d48235fea76a705760142261db5ea3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha01] /home/aryan/.gradle/caches/transforms-2/files-2.1/2c115fd51f39794908dc52bbf663093f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/62aa537859126c57e6fd49c507a04385/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/531cb8699ab6bfe76125edd8756c92d0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.palette:palette:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/db19466cad95f113edab865e7573e1b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3cff9ee56d1bec8a2d58d17cddd4dbae/AndroidManifest.xml:2:1-14:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.shimmer:shimmer:0.4.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fafbc3b3df664316060562ab52d395ae/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/e3e0cccfd9db78a20ef5f900162aaa43/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b38d99f8518838de3e9b872fc08741e/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/44463bc1662c5aebfb8207ef1a01b686/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/34788dc252947ce503c8efddb7b3e579/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bbddb15b86b21340b4fdd36d9b02358f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b224f822a53aab7fe79c474f0ecb1d99/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/880eff3a4888eed7059ba625b8be612c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/7103f9d6bcab6a444a0de997718864cf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b30cb53ebf8407916f4f8c58b49c13a7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6b7b08f62da1797030c4378b6a924e71/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8126061354cb951e718dc923aeb1dac6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ea84ac7d1897da1b03d6cbeeb2bfcb0b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fdfd53d84dbe17b46c442fde98253779/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/1084b4a5ad47d22a2f83f9e23dbab637/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/08db101d1b3b2241e0387dac7d559828/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d42c12f6e39477d841cd343875af54ad/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c10c2b9ae1deed6ce619fa59a00e2337/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fffad98cfdec5ea3eecd2cccb05c0764/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/02353a74c3ef1fa908c984bd880dafde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6db28db32b5ca4e800e05dc68a70c042/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a4cbb61d7c67bfb656ec7b51d0c9a25b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/1093747a2cf74226f7c8467235dd1ad7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e72c86aec4d585c308ddaa1c78584b08/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/85147f8ae98c59fdea2858bc1bfe9cfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/07e1ae520f5020f4834a27d76ad4f1b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c5d7297e3670e0cd3a60be4825936dfe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/9743c2b2a5dab986136f96b1533014bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/599a033bfecdd36d5aba58f257e3ec4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/29e4406e2ff4bbbb739169098de18115/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b648006d52b710769dec230570cc9306/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e343188ee37fbfadfd23ee1375581922/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fe48b622c3c31cdcb37fae865deaee50/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/26fd38cc9a6d7a8eb02e48d211b50474/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/0a0d95c226d0d48b3c3f8b513e03cd1d/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/2a1589924b9a2d263992121a8a5a2a5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/346d84eda2b090cc8128c17f1ca05725/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/22fc2fae0c4334dbe614610630d04de5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/438738e598dc6493190248730913eb34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/9f2a96f885ea55e0b7286a7833ce81f1/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bd3e24037109452f0a44a5c26dcec3d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/2e94996828ff2e775fcc8f56b61d0f7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c2a1c4e2ed236b7d7083417db5c0ffc1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/0f88d59816da4232b51b168b960da249/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/2583731fd3b4ae718a06206e9184f419/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c965bb210e065f3db2ae3da46725ca62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/dd592fc8a521f992e015f7d769e8bc39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5e1725b049ce5473a71c019634a3b5b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/080a9474eff16130ee71846853f89c3f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/4837aa1120450d550d2a604fa2ca1e3d/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c770b6efbeb186f760cb9cd4fefb548e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bcf2588b1d935133bcecb6a104ecd6e6/AndroidManifest.xml:2:1-7:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/8d7e5e45a0e0d48b809216196b21a00b/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/aryan/.gradle/caches/transforms-2/files-2.1/b094a161d0f2e5cc5a7653ad4ae7198b/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/d2a41d79a64638aa215fbb47576136cc/AndroidManifest.xml:22:1-33:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+	package
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:16:5-67
+MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:16:5-67
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:19:5-67
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:27:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fdfd53d84dbe17b46c442fde98253779/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fdfd53d84dbe17b46c442fde98253779/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/8d7e5e45a0e0d48b809216196b21a00b/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/8d7e5e45a0e0d48b809216196b21a00b/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/aryan/.gradle/caches/transforms-2/files-2.1/b094a161d0f2e5cc5a7653ad4ae7198b/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/aryan/.gradle/caches/transforms-2/files-2.1/b094a161d0f2e5cc5a7653ad4ae7198b/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/d2a41d79a64638aa215fbb47576136cc/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/d2a41d79a64638aa215fbb47576136cc/AndroidManifest.xml:29:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:24:5-79
+MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:24:5-79
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:20:5-79
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fdfd53d84dbe17b46c442fde98253779/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fdfd53d84dbe17b46c442fde98253779/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c770b6efbeb186f760cb9cd4fefb548e/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c770b6efbeb186f760cb9cd4fefb548e/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:8:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:16:22-76
+application
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:18:5-224:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /home/aryan/.gradle/caches/transforms-2/files-2.1/d3b07ec69176af7aebcb7c1d3a2b3264/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /home/aryan/.gradle/caches/transforms-2/files-2.1/d3b07ec69176af7aebcb7c1d3a2b3264/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/AndroidManifest.xml:22:5-20
+MERGED from [com.ramotion.garlandview:garland-view:0.3.2] /home/aryan/.gradle/caches/transforms-2/files-2.1/bb5cd367764d004cacdfd48a89bf6566/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ramotion.garlandview:garland-view:0.3.2] /home/aryan/.gradle/caches/transforms-2/files-2.1/bb5cd367764d004cacdfd48a89bf6566/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/b60374fbeac6cd6958094794872c8f77/AndroidManifest.xml:23:5-27:19
+MERGED from [com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/b60374fbeac6cd6958094794872c8f77/AndroidManifest.xml:23:5-27:19
+MERGED from [com.github.mirrajabi:search-dialog:1.2.3] /home/aryan/.gradle/caches/transforms-2/files-2.1/b4529be7316138a9c10763c1cf80e7d2/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mirrajabi:search-dialog:1.2.3] /home/aryan/.gradle/caches/transforms-2/files-2.1/b4529be7316138a9c10763c1cf80e7d2/AndroidManifest.xml:11:5-15:19
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/4f6c6efae90fffd710b9294e9d58e8f5/AndroidManifest.xml:11:5-14:19
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/4f6c6efae90fffd710b9294e9d58e8f5/AndroidManifest.xml:11:5-14:19
+MERGED from [com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT] /home/aryan/.gradle/caches/transforms-2/files-2.1/93b67aa8fd0553274ca330247fd53363/AndroidManifest.xml:11:5-12:19
+MERGED from [com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT] /home/aryan/.gradle/caches/transforms-2/files-2.1/93b67aa8fd0553274ca330247fd53363/AndroidManifest.xml:11:5-12:19
+MERGED from [com.microsoft.aad:adal:1.14.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8e3ad010be65252d84c153af45e34ca7/AndroidManifest.xml:11:5-14:19
+MERGED from [com.microsoft.aad:adal:1.14.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8e3ad010be65252d84c153af45e34ca7/AndroidManifest.xml:11:5-14:19
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/9ec4d965e957864605667f2c7ddc56a8/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/9ec4d965e957864605667f2c7ddc56a8/AndroidManifest.xml:11:5-15:19
+MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:48:5-104:19
+MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:48:5-104:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8785f9d78ee05a235be33ee65505b0dc/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8785f9d78ee05a235be33ee65505b0dc/AndroidManifest.xml:10:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e4603947eaea0ce3df3f2a5c2c70b269/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e4603947eaea0ce3df3f2a5c2c70b269/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/aryan/.gradle/caches/transforms-2/files-2.1/485ab1ff830acc5c2c05fb1480a7dfcf/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/aryan/.gradle/caches/transforms-2/files-2.1/485ab1ff830acc5c2c05fb1480a7dfcf/AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:22:5-20
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/317e2f9eace307f14ac96f8136e9d158/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/317e2f9eace307f14ac96f8136e9d158/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/55b7a03ffcdce057cbab821170fba50d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/55b7a03ffcdce057cbab821170fba50d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:24:5-30:19
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.volley:volley:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/0ef5979f6c497885d6b0a1019b3e7ba1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/0ef5979f6c497885d6b0a1019b3e7ba1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/f4d48235fea76a705760142261db5ea3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/f4d48235fea76a705760142261db5ea3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:29:5-37:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3cff9ee56d1bec8a2d58d17cddd4dbae/AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3cff9ee56d1bec8a2d58d17cddd4dbae/AndroidManifest.xml:12:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/e3e0cccfd9db78a20ef5f900162aaa43/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/e3e0cccfd9db78a20ef5f900162aaa43/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b38d99f8518838de3e9b872fc08741e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b38d99f8518838de3e9b872fc08741e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/44463bc1662c5aebfb8207ef1a01b686/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/44463bc1662c5aebfb8207ef1a01b686/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/34788dc252947ce503c8efddb7b3e579/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/34788dc252947ce503c8efddb7b3e579/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bbddb15b86b21340b4fdd36d9b02358f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bbddb15b86b21340b4fdd36d9b02358f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b224f822a53aab7fe79c474f0ecb1d99/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b224f822a53aab7fe79c474f0ecb1d99/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/7103f9d6bcab6a444a0de997718864cf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/7103f9d6bcab6a444a0de997718864cf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b30cb53ebf8407916f4f8c58b49c13a7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b30cb53ebf8407916f4f8c58b49c13a7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6b7b08f62da1797030c4378b6a924e71/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6b7b08f62da1797030c4378b6a924e71/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8126061354cb951e718dc923aeb1dac6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8126061354cb951e718dc923aeb1dac6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ea84ac7d1897da1b03d6cbeeb2bfcb0b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ea84ac7d1897da1b03d6cbeeb2bfcb0b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/1084b4a5ad47d22a2f83f9e23dbab637/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/1084b4a5ad47d22a2f83f9e23dbab637/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/08db101d1b3b2241e0387dac7d559828/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/08db101d1b3b2241e0387dac7d559828/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d42c12f6e39477d841cd343875af54ad/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d42c12f6e39477d841cd343875af54ad/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fe48b622c3c31cdcb37fae865deaee50/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fe48b622c3c31cdcb37fae865deaee50/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/0a0d95c226d0d48b3c3f8b513e03cd1d/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/0a0d95c226d0d48b3c3f8b513e03cd1d/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/346d84eda2b090cc8128c17f1ca05725/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/346d84eda2b090cc8128c17f1ca05725/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/8d7e5e45a0e0d48b809216196b21a00b/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/8d7e5e45a0e0d48b809216196b21a00b/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/aryan/.gradle/caches/transforms-2/files-2.1/b094a161d0f2e5cc5a7653ad4ae7198b/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/aryan/.gradle/caches/transforms-2/files-2.1/b094a161d0f2e5cc5a7653ad4ae7198b/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/d2a41d79a64638aa215fbb47576136cc/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/d2a41d79a64638aa215fbb47576136cc/AndroidManifest.xml:31:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:23:9-41
+	android:appComponentFactory
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:21:9-53
+		REJECTED from [androidx.core:core:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fe48b622c3c31cdcb37fae865deaee50/AndroidManifest.xml:24:18-86
+	android:roundIcon
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:25:9-50
+	android:largeHeap
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:24:9-33
+	android:icon
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:22:9-39
+	android:allowBackup
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:27:9-40
+	tools:replace
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:19:9-55
+activity#com.swc.onestop.Main3Activity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:29:9-60
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:29:19-48
+activity#com.swc.onestop.Activities.Subscription
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:30:9-61
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:30:19-58
+uses-library#org.apache.http.legacy
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:32:9-34:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:33:13-50
+activity#com.swc.onestop.Activities.SplashScreen
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:36:9-44:20
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:37:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:42:27-74
+meta-data#io.fabric.ApiKey
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:46:9-48:72
+	android:value
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:48:13-69
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:47:13-44
+receiver#com.swc.onestop.MyDownloadManager
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:50:9-56:20
+	android:exported
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:51:13-46
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:53:13-55:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:54:25-79
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:65:9-67:55
+	android:value
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:67:13-52
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:66:13-58
+meta-data#preloaded_fonts
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:68:9-70:57
+	android:resource
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:70:13-54
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:69:13-43
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:71:9-73:50
+	android:resource
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:73:13-47
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:72:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:74:9-76:53
+	android:resource
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:76:13-50
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:75:13-84
+activity#com.swc.onestop.Activities.LoginActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:78:9-80:72
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:80:13-69
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:79:13-53
+activity#com.swc.onestop.Activities.Outlook_API_Activity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:81:9-69
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:81:19-66
+activity#com.swc.onestop.Timings_activities.Ferry
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:82:9-62
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:82:19-59
+activity#com.swc.onestop.Timings_activities.Internal_bus
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:83:9-69
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:83:19-66
+activity#com.swc.onestop.Timings_activities.IITG_Bus
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:84:9-65
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:84:19-62
+activity#com.swc.onestop.Activities.MapsActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:85:9-61
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:85:19-58
+activity#com.swc.onestop.Activities.Main2Activity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:86:9-89:60
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:89:13-57
+	android:hardwareAccelerated
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:88:13-47
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:87:13-53
+activity#com.swc.onestop.ui.ContactActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:90:9-56
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:90:19-53
+activity#com.swc.onestop.ui.AllDetailActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:91:9-93:56
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:93:13-53
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:92:13-49
+activity#com.swc.onestop.Activities.Timings_activity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:94:9-65
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:94:19-62
+activity#com.swc.onestop.Activities.Freshers.profile.ProfileActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:95:9-97:73
+	android:parentActivityName
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:97:13-70
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:96:13-72
+activity#com.swc.onestop.Activities.Mess_Menu
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:98:9-101:47
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:100:13-62
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:99:13-49
+activity#com.swc.onestop.Url
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:102:9-104:48
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:104:13-45
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:103:13-32
+activity#com.swc.onestop.Activities.Internet_settings
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:105:9-108:47
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:107:13-69
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:108:13-44
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:106:13-57
+activity#com.swc.onestop.Activities.Timetable
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:109:9-112:47
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:111:13-61
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:110:13-49
+activity#com.swc.onestop.Internet_settings.BrowSet
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:113:9-116:47
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:115:13-61
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:116:13-44
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:114:13-54
+activity#com.swc.onestop.Internet_settings.DCSet
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:117:9-120:47
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:119:13-61
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:120:13-44
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:118:13-52
+activity#com.swc.onestop.Internet_settings.IPSettings
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:121:9-124:47
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:123:13-61
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:122:13-57
+activity#com.swc.onestop.Internet_settings.LanSet
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:125:9-128:47
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:127:13-61
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:128:13-44
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:126:13-53
+activity#com.swc.onestop.Internet_settings.SkypeSet
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:129:9-132:47
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:131:13-61
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:130:13-55
+activity#com.swc.onestop.Activities.Complaints.ComplaintActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:133:9-77
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:133:19-74
+activity#com.swc.onestop.Activities.Complaints.AddComplaint
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:134:9-72
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:134:19-69
+activity#com.swc.onestop.Activities.Complaints.SingleComplaintActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:135:9-83
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:135:19-80
+activity#com.swc.onestop.Activities.TTData
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:136:9-55
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:136:19-52
+activity#com.swc.onestop.Activities.AboutUs
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:137:9-140:47
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:139:13-60
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:140:13-44
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:138:13-47
+activity#com.swc.onestop.Activities.FreshersActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:141:9-65
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:141:19-62
+activity#com.swc.onestop.MainActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:142:9-144:62
+	android:configChanges
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:144:13-59
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:143:13-41
+activity#com.swc.onestop.HomeActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:145:9-158:20
+	android:label
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:148:13-56
+	android:windowSoftInputMode
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:150:13-52
+	android:configChanges
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:147:13-59
+	android:theme
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:149:13-56
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:146:13-41
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:application/pdf
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:151:13-157:29
+action#android.intent.action.SEND
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:152:17-69
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:152:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:154:17-76
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:154:27-73
+data
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:156:17-60
+	android:mimeType
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:156:23-57
+activity#com.swc.onestop.SignupActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:159:9-161:62
+	android:configChanges
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:161:13-59
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:160:13-43
+service#com.swc.onestop.SignupActivity$OnClearFromRecentService
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:163:9-165:44
+	android:stopWithTask
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:165:13-41
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:164:13-68
+activity#com.swc.onestop.SplashActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:167:9-175:20
+	android:configChanges
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:169:13-59
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:168:13-43
+meta-data#com.parse.SERVER_URL
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:177:9-179:59
+	android:value
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:179:13-56
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:178:13-48
+meta-data#com.parse.APPLICATION_ID
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:180:9-182:55
+	android:value
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:182:13-52
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:181:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:183:9-185:59
+	android:value
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:185:13-56
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:184:13-48
+meta-data#com.parse.push.gcm_sender_id
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:186:9-188:48
+	android:value
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:188:13-45
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:187:13-56
+service#com.parse.fcm.ParseFirebaseMessagingService
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:197:9-201:19
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:197:18-76
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:198:13-200:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:199:17-78
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:199:25-75
+receiver#com.swc.onestop.ParsePushReceiver
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:210:9-218:20
+	android:exported
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:212:13-37
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:211:13-46
+intent-filter#action:name:com.parse.push.intent.DELETE+action:name:com.parse.push.intent.OPEN+action:name:com.parse.push.intent.RECEIVE
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:213:13-217:29
+action#com.parse.push.intent.RECEIVE
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:214:17-72
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:214:25-69
+action#com.parse.push.intent.DELETE
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:215:17-71
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:215:25-68
+action#com.parse.push.intent.OPEN
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:216:17-69
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:216:25-66
+activity#com.swc.onestop.ProfileActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:220:9-53
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:220:19-50
+activity#com.swc.onestop.EditProfile
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:221:9-49
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:221:19-46
+activity#com.swc.onestop.OtherProfile
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:222:9-50
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:222:19-47
+activity#com.swc.onestop.AboutActivity
+ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:223:9-60
+	android:name
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:223:19-48
+uses-sdk
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f996241526f46f8148da048a952878dc/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f996241526f46f8148da048a952878dc/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/690d7fcc42676e929a39812cdfae7110/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/690d7fcc42676e929a39812cdfae7110/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /home/aryan/.gradle/caches/transforms-2/files-2.1/d3b07ec69176af7aebcb7c1d3a2b3264/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /home/aryan/.gradle/caches/transforms-2/files-2.1/d3b07ec69176af7aebcb7c1d3a2b3264/AndroidManifest.xml:5:5-7:41
+MERGED from [com.roughike:bottom-bar:2.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fee34e75b25e9afa7aa0b46284d10f38/AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:2.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fee34e75b25e9afa7aa0b46284d10f38/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.daniel-stoneuk:material-about-library:2.4.2] /home/aryan/.gradle/caches/transforms-2/files-2.1/9c95ca59366d9571456b030e7f7f67c5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.daniel-stoneuk:material-about-library:2.4.2] /home/aryan/.gradle/caches/transforms-2/files-2.1/9c95ca59366d9571456b030e7f7f67c5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/AndroidManifest.xml:20:5-44
+MERGED from [com.ramotion.garlandview:garland-view:0.3.2] /home/aryan/.gradle/caches/transforms-2/files-2.1/bb5cd367764d004cacdfd48a89bf6566/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ramotion.garlandview:garland-view:0.3.2] /home/aryan/.gradle/caches/transforms-2/files-2.1/bb5cd367764d004cacdfd48a89bf6566/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/b60374fbeac6cd6958094794872c8f77/AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/b60374fbeac6cd6958094794872c8f77/AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.mirrajabi:search-dialog:1.2.3] /home/aryan/.gradle/caches/transforms-2/files-2.1/b4529be7316138a9c10763c1cf80e7d2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mirrajabi:search-dialog:1.2.3] /home/aryan/.gradle/caches/transforms-2/files-2.1/b4529be7316138a9c10763c1cf80e7d2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.arcadefire:nice-spinner:1.3.6] /home/aryan/.gradle/caches/transforms-2/files-2.1/06062f2e944f8dda5e9e0506a4c78262/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.arcadefire:nice-spinner:1.3.6] /home/aryan/.gradle/caches/transforms-2/files-2.1/06062f2e944f8dda5e9e0506a4c78262/AndroidManifest.xml:5:5-7:41
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/4f6c6efae90fffd710b9294e9d58e8f5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/4f6c6efae90fffd710b9294e9d58e8f5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT] /home/aryan/.gradle/caches/transforms-2/files-2.1/93b67aa8fd0553274ca330247fd53363/AndroidManifest.xml:7:5-9:41
+MERGED from [com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT] /home/aryan/.gradle/caches/transforms-2/files-2.1/93b67aa8fd0553274ca330247fd53363/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.preference:preference:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/82cf3dc5e26f4c04294f0c06cc19b12c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/82cf3dc5e26f4c04294f0c06cc19b12c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.microsoft.aad:adal:1.14.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8e3ad010be65252d84c153af45e34ca7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.aad:adal:1.14.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8e3ad010be65252d84c153af45e34ca7/AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/54223531dc036f244fcbc08f8ffff726/AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/54223531dc036f244fcbc08f8ffff726/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/9ec4d965e957864605667f2c7ddc56a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/9ec4d965e957864605667f2c7ddc56a8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha01] /home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha01] /home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6c87f34855d850e71a1b3182578cfacf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6c87f34855d850e71a1b3182578cfacf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/99358782a6806d9271be90e9dafa8070/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/99358782a6806d9271be90e9dafa8070/AndroidManifest.xml:20:5-22:41
+MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:4:5-44
+MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:4:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d105f90701e4854e5276a6720a189259/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d105f90701e4854e5276a6720a189259/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/381755bd2f2cc201aa937705caa7d577/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/381755bd2f2cc201aa937705caa7d577/AndroidManifest.xml:18:5-43
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8785f9d78ee05a235be33ee65505b0dc/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8785f9d78ee05a235be33ee65505b0dc/AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e4603947eaea0ce3df3f2a5c2c70b269/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e4603947eaea0ce3df3f2a5c2c70b269/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/aryan/.gradle/caches/transforms-2/files-2.1/485ab1ff830acc5c2c05fb1480a7dfcf/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/aryan/.gradle/caches/transforms-2/files-2.1/485ab1ff830acc5c2c05fb1480a7dfcf/AndroidManifest.xml:5:5-44
+MERGED from [com.github.parse-community.Parse-SDK-Android:fcm:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/46e62b255a6f0a13cbe66283223aead3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:fcm:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/46e62b255a6f0a13cbe66283223aead3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:15:5-17:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:15:5-17:41
+MERGED from [com.joanzapata.pdfview:android-pdfview:1.0.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/769c03cbe09be7aafdca619f2bd778b7/AndroidManifest.xml:23:2-69
+MERGED from [com.joanzapata.pdfview:android-pdfview:1.0.4] /home/aryan/.gradle/caches/transforms-2/files-2.1/769c03cbe09be7aafdca619f2bd778b7/AndroidManifest.xml:23:2-69
+MERGED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:21:5-23:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/acd2543c6fd894909454fb6fd3651036/AndroidManifest.xml:7:5-9:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/acd2543c6fd894909454fb6fd3651036/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/317e2f9eace307f14ac96f8136e9d158/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/317e2f9eace307f14ac96f8136e9d158/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/55b7a03ffcdce057cbab821170fba50d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/55b7a03ffcdce057cbab821170fba50d/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c7216a7a8bd0aed909c5010237e5e67b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c7216a7a8bd0aed909c5010237e5e67b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/0ef5979f6c497885d6b0a1019b3e7ba1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/0ef5979f6c497885d6b0a1019b3e7ba1/AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/f4d48235fea76a705760142261db5ea3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/f4d48235fea76a705760142261db5ea3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha01] /home/aryan/.gradle/caches/transforms-2/files-2.1/2c115fd51f39794908dc52bbf663093f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha01] /home/aryan/.gradle/caches/transforms-2/files-2.1/2c115fd51f39794908dc52bbf663093f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/62aa537859126c57e6fd49c507a04385/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/62aa537859126c57e6fd49c507a04385/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/531cb8699ab6bfe76125edd8756c92d0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/531cb8699ab6bfe76125edd8756c92d0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/db19466cad95f113edab865e7573e1b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/db19466cad95f113edab865e7573e1b5/AndroidManifest.xml:20:5-44
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3cff9ee56d1bec8a2d58d17cddd4dbae/AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3cff9ee56d1bec8a2d58d17cddd4dbae/AndroidManifest.xml:8:5-10:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.shimmer:shimmer:0.4.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fafbc3b3df664316060562ab52d395ae/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.4.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fafbc3b3df664316060562ab52d395ae/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/e3e0cccfd9db78a20ef5f900162aaa43/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/e3e0cccfd9db78a20ef5f900162aaa43/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b38d99f8518838de3e9b872fc08741e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b38d99f8518838de3e9b872fc08741e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/44463bc1662c5aebfb8207ef1a01b686/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/44463bc1662c5aebfb8207ef1a01b686/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/34788dc252947ce503c8efddb7b3e579/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/34788dc252947ce503c8efddb7b3e579/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bbddb15b86b21340b4fdd36d9b02358f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bbddb15b86b21340b4fdd36d9b02358f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b224f822a53aab7fe79c474f0ecb1d99/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b224f822a53aab7fe79c474f0ecb1d99/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/880eff3a4888eed7059ba625b8be612c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/880eff3a4888eed7059ba625b8be612c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/7103f9d6bcab6a444a0de997718864cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/7103f9d6bcab6a444a0de997718864cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b30cb53ebf8407916f4f8c58b49c13a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b30cb53ebf8407916f4f8c58b49c13a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6b7b08f62da1797030c4378b6a924e71/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6b7b08f62da1797030c4378b6a924e71/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8126061354cb951e718dc923aeb1dac6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8126061354cb951e718dc923aeb1dac6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ea84ac7d1897da1b03d6cbeeb2bfcb0b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ea84ac7d1897da1b03d6cbeeb2bfcb0b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fdfd53d84dbe17b46c442fde98253779/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fdfd53d84dbe17b46c442fde98253779/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/1084b4a5ad47d22a2f83f9e23dbab637/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/1084b4a5ad47d22a2f83f9e23dbab637/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/08db101d1b3b2241e0387dac7d559828/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/08db101d1b3b2241e0387dac7d559828/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d42c12f6e39477d841cd343875af54ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d42c12f6e39477d841cd343875af54ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c10c2b9ae1deed6ce619fa59a00e2337/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c10c2b9ae1deed6ce619fa59a00e2337/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fffad98cfdec5ea3eecd2cccb05c0764/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fffad98cfdec5ea3eecd2cccb05c0764/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/02353a74c3ef1fa908c984bd880dafde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/02353a74c3ef1fa908c984bd880dafde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6db28db32b5ca4e800e05dc68a70c042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/6db28db32b5ca4e800e05dc68a70c042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a4cbb61d7c67bfb656ec7b51d0c9a25b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a4cbb61d7c67bfb656ec7b51d0c9a25b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/1093747a2cf74226f7c8467235dd1ad7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/1093747a2cf74226f7c8467235dd1ad7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e72c86aec4d585c308ddaa1c78584b08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e72c86aec4d585c308ddaa1c78584b08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/85147f8ae98c59fdea2858bc1bfe9cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/85147f8ae98c59fdea2858bc1bfe9cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/07e1ae520f5020f4834a27d76ad4f1b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/07e1ae520f5020f4834a27d76ad4f1b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c5d7297e3670e0cd3a60be4825936dfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c5d7297e3670e0cd3a60be4825936dfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/9743c2b2a5dab986136f96b1533014bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/9743c2b2a5dab986136f96b1533014bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/599a033bfecdd36d5aba58f257e3ec4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/599a033bfecdd36d5aba58f257e3ec4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/29e4406e2ff4bbbb739169098de18115/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/29e4406e2ff4bbbb739169098de18115/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b648006d52b710769dec230570cc9306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/b648006d52b710769dec230570cc9306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e343188ee37fbfadfd23ee1375581922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/e343188ee37fbfadfd23ee1375581922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fe48b622c3c31cdcb37fae865deaee50/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fe48b622c3c31cdcb37fae865deaee50/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/26fd38cc9a6d7a8eb02e48d211b50474/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/26fd38cc9a6d7a8eb02e48d211b50474/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/0a0d95c226d0d48b3c3f8b513e03cd1d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/0a0d95c226d0d48b3c3f8b513e03cd1d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/2a1589924b9a2d263992121a8a5a2a5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/2a1589924b9a2d263992121a8a5a2a5e/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/346d84eda2b090cc8128c17f1ca05725/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/346d84eda2b090cc8128c17f1ca05725/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/22fc2fae0c4334dbe614610630d04de5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/22fc2fae0c4334dbe614610630d04de5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/438738e598dc6493190248730913eb34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/438738e598dc6493190248730913eb34/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/9f2a96f885ea55e0b7286a7833ce81f1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/9f2a96f885ea55e0b7286a7833ce81f1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bd3e24037109452f0a44a5c26dcec3d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bd3e24037109452f0a44a5c26dcec3d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/2e94996828ff2e775fcc8f56b61d0f7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/2e94996828ff2e775fcc8f56b61d0f7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c2a1c4e2ed236b7d7083417db5c0ffc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c2a1c4e2ed236b7d7083417db5c0ffc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/0f88d59816da4232b51b168b960da249/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/0f88d59816da4232b51b168b960da249/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/2583731fd3b4ae718a06206e9184f419/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/2583731fd3b4ae718a06206e9184f419/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c965bb210e065f3db2ae3da46725ca62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c965bb210e065f3db2ae3da46725ca62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/dd592fc8a521f992e015f7d769e8bc39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/dd592fc8a521f992e015f7d769e8bc39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5e1725b049ce5473a71c019634a3b5b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5e1725b049ce5473a71c019634a3b5b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/080a9474eff16130ee71846853f89c3f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/080a9474eff16130ee71846853f89c3f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/4837aa1120450d550d2a604fa2ca1e3d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/4837aa1120450d550d2a604fa2ca1e3d/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c770b6efbeb186f760cb9cd4fefb548e/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c770b6efbeb186f760cb9cd4fefb548e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bcf2588b1d935133bcecb6a104ecd6e6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/bcf2588b1d935133bcecb6a104ecd6e6/AndroidManifest.xml:5:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/8d7e5e45a0e0d48b809216196b21a00b/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/8d7e5e45a0e0d48b809216196b21a00b/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/aryan/.gradle/caches/transforms-2/files-2.1/b094a161d0f2e5cc5a7653ad4ae7198b/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/aryan/.gradle/caches/transforms-2/files-2.1/b094a161d0f2e5cc5a7653ad4ae7198b/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/d2a41d79a64638aa215fbb47576136cc/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/d2a41d79a64638aa215fbb47576136cc/AndroidManifest.xml:27:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:7:5-43
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+activity#com.microsoft.aad.adal.AuthenticationActivity
+ADDED from [com.microsoft.aad:adal:1.14.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8e3ad010be65252d84c153af45e34ca7/AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from [com.microsoft.aad:adal:1.14.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8e3ad010be65252d84c153af45e34ca7/AndroidManifest.xml:12:19-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:8:9-63
+permission#com.swc.onestop.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:8:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:11:22-76
+uses-permission#com.swc.onestop.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:11:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:17:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:17:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:18:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fdfd53d84dbe17b46c442fde98253779/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/fdfd53d84dbe17b46c442fde98253779/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:23:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:29:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:31:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:32:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:33:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:34:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:35:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:36:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:36:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:37:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:37:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:38:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:39:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:39:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:40:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:40:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:41:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:41:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:43:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:43:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:44:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:44:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:45:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:45:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:46:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:46:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:49:9-51:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:50:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:53:9-55:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:55:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:54:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:57:9-67:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:59:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:58:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:62:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.swc.onestop
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:62:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:63:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:63:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:65:27-58
+category#com.swc.onestop
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:65:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:68:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:68:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:70:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:70:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:71:9-73:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:72:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:74:9-76:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:76:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:75:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:77:9-79:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:79:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:78:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:80:9-82:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:82:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:81:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:83:9-85:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:85:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:84:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:87:9-89:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:89:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:88:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:91:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:91:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:93:9-98:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:93:19-62
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:94:13-97:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:95:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:95:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:96:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:96:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:99:9-103:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:99:19-63
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:100:13-102:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:101:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:101:25-81
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/aryan/.gradle/caches/transforms-2/files-2.1/485ab1ff830acc5c2c05fb1480a7dfcf/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/aryan/.gradle/caches/transforms-2/files-2.1/485ab1ff830acc5c2c05fb1480a7dfcf/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/aryan/.gradle/caches/transforms-2/files-2.1/485ab1ff830acc5c2c05fb1480a7dfcf/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/aryan/.gradle/caches/transforms-2/files-2.1/485ab1ff830acc5c2c05fb1480a7dfcf/AndroidManifest.xml:9:13-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:25:9-29:19
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:25:9-29:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/18c3934de7edc44461d1d6f86108c319/AndroidManifest.xml:33:17-117
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d42c12f6e39477d841cd343875af54ad/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/d42c12f6e39477d841cd343875af54ad/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:28:9-32
+meta-data#com.google.firebase.components:com.google.firebase.crash.component.FirebaseCrashRegistrar
+ADDED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:26:13-28:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:16.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/c9e6f624dcbc3e669cb8aacdf6aafaee/AndroidManifest.xml:27:17-121
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/3a940160d3a9ea26e3fd7133034e89fa/AndroidManifest.xml:21:17-111
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/87be262d1a2e3b2c100f27b452298783/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/5f76ede53790344546ae50c79c57a46f/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/67b4e1d54eea747c55922e2bd7bcf081/AndroidManifest.xml:34:17-107
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:12:9-16:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.9] /home/aryan/.gradle/caches/transforms-2/files-2.1/35fa6ef4f8c1ca51fd4ce19e4edb39d8/AndroidManifest.xml:13:13-75
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:19.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8aed5745e6de98bb5b1cc8494de11973/AndroidManifest.xml:14:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/041c6e48b69417f4e00fb49e4f698bae/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f9a917732a5dcf3d162d7da456e4e9f1/AndroidManifest.xml:41:13-43:29
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/8c4288be112ffe2d8ca7568d3cc644c5/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/75d3e41315459d8171e30bf2504ce28a/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8b4be814c27b3f8a22cb14dfb739114c/AndroidManifest.xml:49:13-87

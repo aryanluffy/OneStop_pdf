@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">OneStop</string>
+    <string name="welcome_text">Welcome, </string>
+    <string name="loading">Getting data from Graph...</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="enter_title">Enter Title</string>
+    <string-array name="ferry">
+
+        <item>7:30 am</item>
+        <item>7:40 am</item>
+        <item>8:45 am</item>
+        <item>9:45 am</item>
+        <item>11:30 am</item>
+        <item>1:00 pm</item>
+        <item>2:30 pm</item>
+        <item>3:30 pm</item>
+        <item>5:00 pm</item>
+        <item>6:15 pm</item>
+        <item>7:45 pm</item>
+        <item>SUNDAY</item>
+        <item>8:45 am</item>
+        <item>11:30 am</item>
+        <item>2:30 pm</item>
+        <item>5:30 pm</item>
+    </string-array>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="club_boards">
+        <item>Sports Board</item>
+        <item>Cultural Board</item>
+        <item>Technical Board</item>
+    </string-array>
+    <string-array name="hostels">
+        <item>Manas</item>
+        <item>Brahmaputra</item>
+        <item>Dihing</item>
+        <item>Lohit</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_timings_activity">Timings_activity</string>
+    <string name="title_activity_mess__menu">Mess_Menu</string>
+    <string name="title_activity_internet_settings">Internet_settings</string>
+    <string name="title_activity_timetable">Timetable</string>
+    <string name="title_activity_about_us">AboutUs</string>
+
+
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="answer">ANSWER</string>
+    <string name="answer_low">answer</string>
+    <string name="connect">CONNECT</string>
+    <string name="Years">Years</string>
+    <string name="asked">asked</string>
+    <string name="profile">"'s Profile"</string>
+
+    <string name="transition_avatar_border" translatable="false">avatar_border</string>
+    <string name="transition_card" translatable="false">card</string>
+    <string name="transition_background" translatable="false">background</string>
+    <string name="transition_list" translatable="false">list</string>
+
+    <string name="details_connect">CONNECT</string>
+    <string name="details_close">CLOSE</string>
+    <string name="details_details">DETAILS</string>
+    <string name="initializing_faker">Initializing Faker...</string>
+    <string name="auth_failed">Username or Password is incorrect</string>
+    <string name="title_activity_home">Upload to Sawaal</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">bDBtBquCKed0eVmuESk51duvpSG6derWC5pdMHvy</string>
+    <string name="back4app_client_key">i0eLIhpqNPvighXP8mEmfPTmtZpb1D3AvC2UJFUl</string>
+
+</resources>
