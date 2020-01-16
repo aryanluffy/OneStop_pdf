@@ -20,28 +20,28 @@
         "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/res/layout/mtrl_picker_actions.xml"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
-        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
-    },
-    {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/color_mtrl_calendar_selected_range.xml.flat",
         "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/res/color/mtrl_calendar_selected_range.xml"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/fe48b622c3c31cdcb37fae865deaee50/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
+        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
     },
     {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-ldpi_firefox1.png.flat",
         "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/drawable-ldpi/firefox1.png"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/fe48b622c3c31cdcb37fae865deaee50/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
         "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-mdpi_home.png.flat",
@@ -60,32 +60,32 @@
         "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
-        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/res/anim-v21/design_bottom_sheet_slide_out.xml"
-    },
-    {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
         "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/c5d7297e3670e0cd3a60be4825936dfe/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-mdpi_book_cab_illustration_small.png.flat",
-        "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/drawable-mdpi/book_cab_illustration_small.png"
-    },
-    {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/layout_preference_category_material.xml.flat",
-        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/82cf3dc5e26f4c04294f0c06cc19b12c/res/layout/preference_category_material.xml"
+        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_clear.png.flat",
         "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/93b67aa8fd0553274ca330247fd53363/res/drawable-xxhdpi/ic_clear.png"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/raw_amu_cdata.kml.flat",
-        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/res/raw/amu_cdata.kml"
+        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/layout_preference_category_material.xml.flat",
+        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/82cf3dc5e26f4c04294f0c06cc19b12c/res/layout/preference_category_material.xml"
+    },
+    {
+        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-mdpi_book_cab_illustration_small.png.flat",
+        "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/drawable-mdpi/book_cab_illustration_small.png"
     },
     {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ip_icon.png.flat",
         "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/drawable-mdpi/ip_icon.png"
+    },
+    {
+        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/raw_amu_cdata.kml.flat",
+        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/74e0dd30ad1d42e005e2b44e990c1600/res/raw/amu_cdata.kml"
     },
     {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-ldpi_home_icon.png.flat",
@@ -148,12 +148,12 @@
         "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/drawable-ldpi/executives_and_senate_illustration_small.png"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/color_design_error.xml.flat",
-        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/res/color/design_error.xml"
-    },
-    {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_executives_and_senate_illustration_small.png.flat",
         "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/drawable-xxxhdpi/executives_and_senate_illustration_small.png"
+    },
+    {
+        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/color_design_error.xml.flat",
+        "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/res/color/design_error.xml"
     },
     {
         "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/res/merged/debug/color_material_on_primary_emphasis_high_type.xml.flat",
