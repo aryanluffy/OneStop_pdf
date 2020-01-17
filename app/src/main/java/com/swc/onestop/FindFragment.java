@@ -191,6 +191,7 @@ public class FindFragment extends Fragment {
             }
         });
         Toolbar toolbar=getActivity().findViewById(R.id.toolbar);
+        toolbar.setTitleTextAppearance(getContext(),R.style.amu_Bubble_TextAppearance_Dark);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
