@@ -2036,6 +2036,7 @@ drawable rippleupvote
 drawable rounded_white_corners
 drawable roundedbtnbg
 drawable sample
+drawable sawaal
 drawable search_bg
 drawable search_bg_shadow
 drawable search_bg_transparent

@@ -134,7 +134,7 @@ public class FindFragment extends Fragment {
 //        mTopToolbar = (Toolbar) ((AppCompatActivity)getActivity()).findViewById(R.id.toolbar);
 //        mTopToolbar.setTitle("Find Paper");
         setHasOptionsMenu(true);
-        ((HomeActivity) getActivity()).getSupportActionBar().setTitle("Find Paper");
+        ((HomeActivity) getActivity()).getSupportActionBar().setTitle("");
         return inflater.inflate(R.layout.fragment_find, container, false);
     }
 
@@ -143,7 +143,7 @@ public class FindFragment extends Fragment {
     public void onViewCreated(View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         isathome=true;
-//        toolbar = getView().findViewById(R.id.toolbar);
+        toolbar = getView().findViewById(R.id.toolbar);
 //        toolbar.setTitle("Find Paper");
         findpdf = getView().findViewById(R.id.btn_find);
         inputcode = (EditText) getView().findViewById(R.id.findcourse);

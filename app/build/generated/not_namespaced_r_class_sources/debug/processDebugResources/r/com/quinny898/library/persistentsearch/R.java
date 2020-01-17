@@ -356,10 +356,10 @@ public final class R {
         public static final int ic_clear = 0x7f0800c0;
         public static final int ic_more_vert_black_24dp = 0x7f0800eb;
         public static final int ic_up = 0x7f080106;
-        public static final int search_bg = 0x7f080140;
-        public static final int search_bg_shadow = 0x7f080141;
-        public static final int search_bg_transparent = 0x7f080142;
-        public static final int search_frame = 0x7f080144;
+        public static final int search_bg = 0x7f080141;
+        public static final int search_bg_shadow = 0x7f080142;
+        public static final int search_bg_transparent = 0x7f080143;
+        public static final int search_frame = 0x7f080145;
     }
     public static final class id {
         private id() {}

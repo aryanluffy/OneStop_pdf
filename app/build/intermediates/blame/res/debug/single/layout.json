@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/inner_item.xml",
-        "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/layout/inner_item.xml"
+        "merged": "/home/aryan/Videos/onestoppdf/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/inner_item.xml",
+        "source": "/home/aryan/Videos/onestoppdf/app/src/main/res/layout/inner_item.xml"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/outer_header.xml",
-        "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/layout/outer_header.xml"
+        "merged": "/home/aryan/Videos/onestoppdf/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/details_item.xml",
+        "source": "/home/aryan/Videos/onestoppdf/app/src/main/res/layout/details_item.xml"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/details_item.xml",
-        "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/layout/details_item.xml"
+        "merged": "/home/aryan/Videos/onestoppdf/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/profile_item.xml",
+        "source": "/home/aryan/Videos/onestoppdf/app/src/main/res/layout/profile_item.xml"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/profile_item.xml",
-        "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/layout/profile_item.xml"
+        "merged": "/home/aryan/Videos/onestoppdf/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/outer_header.xml",
+        "source": "/home/aryan/Videos/onestoppdf/app/src/main/res/layout/outer_header.xml"
     },
     {
-        "merged": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profile.xml",
-        "source": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/res/layout/activity_profile.xml"
+        "merged": "/home/aryan/Videos/onestoppdf/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profile.xml",
+        "source": "/home/aryan/Videos/onestoppdf/app/src/main/res/layout/activity_profile.xml"
     }
 ]

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:1-226:12
 MERGED from [androidx.databinding:databinding-adapters:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f996241526f46f8148da048a952878dc/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/690d7fcc42676e929a39812cdfae7110/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /home/aryan/.gradle/caches/transforms-2/files-2.1/d3b07ec69176af7aebcb7c1d3a2b3264/AndroidManifest.xml:2:1-11:12
@@ -116,27 +116,27 @@ MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.8] /home/aryan/.gr
 MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/aryan/.gradle/caches/transforms-2/files-2.1/b094a161d0f2e5cc5a7653ad4ae7198b/AndroidManifest.xml:2:1-13:12
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/d2a41d79a64638aa215fbb47576136cc/AndroidManifest.xml:22:1-33:12
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:2:1-13:12
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:1-226:12
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:1-226:12
 	package
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:1-226:12
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:1-226:12
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:1-226:12
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:6:5-67
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:6:5-67
 MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:16:5-67
 MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:16:5-67
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:19:5-67
@@ -174,9 +174,9 @@ MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/tran
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:9:5-67
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:7:5-79
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:7:5-79
 MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:24:5-79
 MERGED from [com.onesignal:OneSignal:3.12.5] /home/aryan/.gradle/caches/transforms-2/files-2.1/8de7568ebb80798e35906c93223fb8f3/AndroidManifest.xml:24:5-79
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.22.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/a2c0519b09e82ec122637c652e90e81c/AndroidManifest.xml:20:5-79
@@ -204,25 +204,25 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /h
 MERGED from [io.grpc:grpc-android:1.21.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c770b6efbeb186f760cb9cd4fefb548e/AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c770b6efbeb186f760cb9cd4fefb548e/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.CALL_PHONE
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:8:5-69
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:8:5-69
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:8:22-66
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:8:22-66
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:9:5-81
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:9:22-78
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:9:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:10:5-80
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:10:5-80
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:10:22-77
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:10:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:16:5-79
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:16:22-76
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:16:22-76
 application
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:18:5-224:19
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:18:5-224:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /home/aryan/.gradle/caches/transforms-2/files-2.1/d3b07ec69176af7aebcb7c1d3a2b3264/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /home/aryan/.gradle/caches/transforms-2/files-2.1/d3b07ec69176af7aebcb7c1d3a2b3264/AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/aryan/.gradle/caches/transforms-2/files-2.1/f785757d5ab2e22af71bfd46d72b2939/AndroidManifest.xml:22:5-20
@@ -338,376 +338,376 @@ MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/tran
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:11:5-20
 	android:supportsRtl
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:23:9-41
 	android:appComponentFactory
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:21:9-53
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:21:9-53
 		REJECTED from [androidx.core:core:1.1.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/fe48b622c3c31cdcb37fae865deaee50/AndroidManifest.xml:24:18-86
 	android:roundIcon
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:25:9-50
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:25:9-50
 	android:largeHeap
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:24:9-33
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:24:9-33
 	android:icon
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:22:9-39
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:22:9-39
 	android:allowBackup
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:27:9-40
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:27:9-40
 	tools:replace
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:28:9-52
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:28:9-52
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:19:9-55
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:19:9-55
 activity#com.swc.onestop.Main3Activity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:29:9-60
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:29:9-60
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:29:19-48
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:29:19-48
 activity#com.swc.onestop.Activities.Subscription
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:30:9-61
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:30:9-61
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:30:19-58
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:30:19-58
 uses-library#org.apache.http.legacy
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:32:9-34:40
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:32:9-34:40
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:33:9-35:40
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/aryan/.gradle/caches/transforms-2/files-2.1/c8bc88c50bcc47b82fc4f990bd88ed10/AndroidManifest.xml:33:9-35:40
 	android:required
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:34:13-37
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:33:13-50
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:33:13-50
 activity#com.swc.onestop.Activities.SplashScreen
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:36:9-44:20
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:36:9-44:20
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:38:13-69
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:37:13-52
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:37:13-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:39:13-43:29
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:40:17-69
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:40:25-66
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:42:17-77
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:42:27-74
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:42:27-74
 meta-data#io.fabric.ApiKey
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:46:9-48:72
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:46:9-48:72
 	android:value
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:48:13-69
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:48:13-69
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:47:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:47:13-44
 receiver#com.swc.onestop.MyDownloadManager
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:50:9-56:20
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:50:9-56:20
 	android:exported
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:52:13-36
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:52:13-36
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:51:13-46
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:51:13-46
 intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:53:13-55:29
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:53:13-55:29
 action#android.intent.action.DOWNLOAD_COMPLETE
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:54:17-82
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:54:17-82
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:54:25-79
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:54:25-79
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:65:9-67:55
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:65:9-67:55
 	android:value
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:67:13-52
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:67:13-52
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:66:13-58
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:66:13-58
 meta-data#preloaded_fonts
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:68:9-70:57
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:68:9-70:57
 	android:resource
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:70:13-54
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:70:13-54
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:69:13-43
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:69:13-43
 meta-data#com.google.firebase.messaging.default_notification_icon
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:71:9-73:50
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:71:9-73:50
 	android:resource
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:73:13-47
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:73:13-47
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:72:13-83
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:72:13-83
 meta-data#com.google.firebase.messaging.default_notification_color
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:74:9-76:53
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:74:9-76:53
 	android:resource
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:76:13-50
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:76:13-50
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:75:13-84
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:75:13-84
 activity#com.swc.onestop.Activities.LoginActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:78:9-80:72
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:78:9-80:72
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:80:13-69
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:80:13-69
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:79:13-53
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:79:13-53
 activity#com.swc.onestop.Activities.Outlook_API_Activity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:81:9-69
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:81:9-69
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:81:19-66
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:81:19-66
 activity#com.swc.onestop.Timings_activities.Ferry
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:82:9-62
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:82:9-62
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:82:19-59
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:82:19-59
 activity#com.swc.onestop.Timings_activities.Internal_bus
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:83:9-69
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:83:9-69
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:83:19-66
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:83:19-66
 activity#com.swc.onestop.Timings_activities.IITG_Bus
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:84:9-65
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:84:9-65
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:84:19-62
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:84:19-62
 activity#com.swc.onestop.Activities.MapsActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:85:9-61
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:85:9-61
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:85:19-58
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:85:19-58
 activity#com.swc.onestop.Activities.Main2Activity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:86:9-89:60
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:86:9-89:60
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:89:13-57
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:89:13-57
 	android:hardwareAccelerated
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:88:13-47
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:88:13-47
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:87:13-53
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:87:13-53
 activity#com.swc.onestop.ui.ContactActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:90:9-56
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:90:9-56
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:90:19-53
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:90:19-53
 activity#com.swc.onestop.ui.AllDetailActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:91:9-93:56
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:91:9-93:56
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:93:13-53
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:93:13-53
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:92:13-49
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:92:13-49
 activity#com.swc.onestop.Activities.Timings_activity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:94:9-65
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:94:9-65
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:94:19-62
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:94:19-62
 activity#com.swc.onestop.Activities.Freshers.profile.ProfileActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:95:9-97:73
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:95:9-97:73
 	android:parentActivityName
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:97:13-70
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:97:13-70
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:96:13-72
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:96:13-72
 activity#com.swc.onestop.Activities.Mess_Menu
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:98:9-101:47
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:98:9-101:47
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:100:13-62
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:100:13-62
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:101:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:101:13-44
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:99:13-49
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:99:13-49
 activity#com.swc.onestop.Url
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:102:9-104:48
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:102:9-104:48
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:104:13-45
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:104:13-45
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:103:13-32
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:103:13-32
 activity#com.swc.onestop.Activities.Internet_settings
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:105:9-108:47
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:105:9-108:47
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:107:13-69
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:107:13-69
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:108:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:108:13-44
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:106:13-57
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:106:13-57
 activity#com.swc.onestop.Activities.Timetable
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:109:9-112:47
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:109:9-112:47
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:111:13-61
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:111:13-61
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:112:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:112:13-44
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:110:13-49
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:110:13-49
 activity#com.swc.onestop.Internet_settings.BrowSet
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:113:9-116:47
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:113:9-116:47
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:115:13-61
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:115:13-61
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:116:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:116:13-44
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:114:13-54
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:114:13-54
 activity#com.swc.onestop.Internet_settings.DCSet
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:117:9-120:47
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:117:9-120:47
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:119:13-61
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:119:13-61
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:120:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:120:13-44
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:118:13-52
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:118:13-52
 activity#com.swc.onestop.Internet_settings.IPSettings
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:121:9-124:47
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:121:9-124:47
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:123:13-61
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:123:13-61
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:124:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:124:13-44
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:122:13-57
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:122:13-57
 activity#com.swc.onestop.Internet_settings.LanSet
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:125:9-128:47
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:125:9-128:47
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:127:13-61
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:127:13-61
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:128:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:128:13-44
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:126:13-53
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:126:13-53
 activity#com.swc.onestop.Internet_settings.SkypeSet
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:129:9-132:47
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:129:9-132:47
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:131:13-61
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:131:13-61
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:132:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:132:13-44
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:130:13-55
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:130:13-55
 activity#com.swc.onestop.Activities.Complaints.ComplaintActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:133:9-77
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:133:9-77
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:133:19-74
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:133:19-74
 activity#com.swc.onestop.Activities.Complaints.AddComplaint
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:134:9-72
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:134:9-72
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:134:19-69
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:134:19-69
 activity#com.swc.onestop.Activities.Complaints.SingleComplaintActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:135:9-83
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:135:9-83
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:135:19-80
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:135:19-80
 activity#com.swc.onestop.Activities.TTData
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:136:9-55
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:136:9-55
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:136:19-52
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:136:19-52
 activity#com.swc.onestop.Activities.AboutUs
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:137:9-140:47
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:137:9-140:47
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:139:13-60
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:139:13-60
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:140:13-44
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:140:13-44
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:138:13-47
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:138:13-47
 activity#com.swc.onestop.Activities.FreshersActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:141:9-65
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:141:9-65
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:141:19-62
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:141:19-62
 activity#com.swc.onestop.MainActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:142:9-144:62
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:142:9-144:62
 	android:configChanges
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:144:13-59
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:144:13-59
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:143:13-41
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:143:13-41
 activity#com.swc.onestop.HomeActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:145:9-158:20
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:145:9-158:20
 	android:label
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:148:13-56
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:148:13-56
 	android:windowSoftInputMode
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:150:13-52
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:150:13-52
 	android:configChanges
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:147:13-59
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:147:13-59
 	android:theme
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:149:13-56
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:149:13-56
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:146:13-41
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:146:13-41
 intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:application/pdf
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:151:13-157:29
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:151:13-157:29
 action#android.intent.action.SEND
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:152:17-69
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:152:17-69
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:152:25-66
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:152:25-66
 category#android.intent.category.DEFAULT
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:154:17-76
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:154:17-76
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:154:27-73
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:154:27-73
 data
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:156:17-60
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:156:17-60
 	android:mimeType
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:156:23-57
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:156:23-57
 activity#com.swc.onestop.SignupActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:159:9-161:62
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:159:9-161:62
 	android:configChanges
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:161:13-59
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:161:13-59
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:160:13-43
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:160:13-43
 service#com.swc.onestop.SignupActivity$OnClearFromRecentService
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:163:9-165:44
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:163:9-165:44
 	android:stopWithTask
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:165:13-41
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:165:13-41
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:164:13-68
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:164:13-68
 activity#com.swc.onestop.SplashActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:167:9-175:20
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:167:9-175:20
 	android:configChanges
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:169:13-59
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:169:13-59
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:168:13-43
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:168:13-43
 meta-data#com.parse.SERVER_URL
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:177:9-179:59
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:177:9-179:59
 	android:value
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:179:13-56
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:179:13-56
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:178:13-48
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:178:13-48
 meta-data#com.parse.APPLICATION_ID
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:180:9-182:55
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:180:9-182:55
 	android:value
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:182:13-52
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:182:13-52
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:181:13-52
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:181:13-52
 meta-data#com.parse.CLIENT_KEY
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:183:9-185:59
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:183:9-185:59
 	android:value
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:185:13-56
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:185:13-56
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:184:13-48
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:184:13-48
 meta-data#com.parse.push.gcm_sender_id
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:186:9-188:48
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:186:9-188:48
 	android:value
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:188:13-45
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:188:13-45
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:187:13-56
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:187:13-56
 service#com.parse.fcm.ParseFirebaseMessagingService
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:197:9-201:19
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:197:9-201:19
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:197:18-76
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:197:18-76
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:198:13-200:29
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:198:13-200:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:199:17-78
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:199:17-78
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:199:25-75
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:199:25-75
 receiver#com.swc.onestop.ParsePushReceiver
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:210:9-218:20
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:210:9-218:20
 	android:exported
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:212:13-37
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:212:13-37
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:211:13-46
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:211:13-46
 intent-filter#action:name:com.parse.push.intent.DELETE+action:name:com.parse.push.intent.OPEN+action:name:com.parse.push.intent.RECEIVE
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:213:13-217:29
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:213:13-217:29
 action#com.parse.push.intent.RECEIVE
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:214:17-72
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:214:17-72
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:214:25-69
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:214:25-69
 action#com.parse.push.intent.DELETE
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:215:17-71
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:215:17-71
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:215:25-68
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:215:25-68
 action#com.parse.push.intent.OPEN
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:216:17-69
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:216:17-69
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:216:25-66
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:216:25-66
 activity#com.swc.onestop.ProfileActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:220:9-53
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:220:9-53
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:220:19-50
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:220:19-50
 activity#com.swc.onestop.EditProfile
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:221:9-49
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:221:9-49
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:221:19-46
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:221:19-46
 activity#com.swc.onestop.OtherProfile
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:222:9-50
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:222:9-50
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:222:19-47
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:222:19-47
 activity#com.swc.onestop.AboutActivity
-ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:223:9-60
+ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:223:9-60
 	android:name
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml:223:19-48
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml:223:19-48
 uses-sdk
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f996241526f46f8148da048a952878dc/AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-adapters:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/f996241526f46f8148da048a952878dc/AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:3.4.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/690d7fcc42676e929a39812cdfae7110/AndroidManifest.xml:22:5-44
@@ -932,16 +932,16 @@ MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/tran
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/aryan/.gradle/caches/transforms-2/files-2.1/d2a41d79a64638aa215fbb47576136cc/AndroidManifest.xml:27:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/aryan/.gradle/caches/transforms-2/files-2.1/a20c601a5924a7de8cdc2cc7383dc892/AndroidManifest.xml:7:5-43
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
-INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
+INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aryan/Downloads/Modified_Sawaal_App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
+		ADDED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aryan/Videos/onestoppdf/app/src/main/AndroidManifest.xml
 activity#com.microsoft.aad.adal.AuthenticationActivity
 ADDED from [com.microsoft.aad:adal:1.14.1] /home/aryan/.gradle/caches/transforms-2/files-2.1/8e3ad010be65252d84c153af45e34ca7/AndroidManifest.xml:12:9-13:20
 	android:name

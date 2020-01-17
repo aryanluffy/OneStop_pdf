@@ -157,7 +157,7 @@ public class UploadFragment extends Fragment {
 //        mTopToolbar = (Toolbar) ((AppCompatActivity)getActivity()).findViewById(R.id.toolbar);
 //        mTopToolbar.setTitle("Upload Paper");
         setHasOptionsMenu(true);
-        ((HomeActivity) getActivity()).getSupportActionBar().setTitle("Upload Paper");
+        ((HomeActivity) getActivity()).getSupportActionBar().setTitle("");
 
         return inflater.inflate(R.layout.fragment_upload, container, false);
 
