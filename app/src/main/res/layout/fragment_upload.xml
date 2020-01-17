@@ -137,15 +137,18 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
-            <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/btn_browse"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:layout_marginTop="10dp"
-                android:background="@drawable/roundedbtnbg"
-                android:padding="12dp"
-                android:text="Browse" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btn_browse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/roundedbtnbg"
+                    android:padding="12dp"
+                    android:text="Browse"
+                    android:textColor="#FFFFFF"
+                    android:textSize="16sp" />
 
                 <TextView
                     android:id="@+id/displaytext"
@@ -175,17 +178,19 @@
                 android:id="@+id/btn_upload"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/roundedbtnbg"
                 android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="24dp"
+                android:background="@drawable/roundedbtnbg"
                 android:gravity="center"
-                android:text="Upload Paper"
-                app:spinning_bar_width="4dp"
+                android:text="Upload "
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                app:finalCornerAngle="45dp"
+                app:initialCornerAngle="45dp"
                 app:spinning_bar_color="#FFF"
                 app:spinning_bar_padding="6dp"
-                android:layout_marginBottom="24dp"
-                android:layout_marginTop="10dp"
-                app:initialCornerAngle="45dp"
-                app:finalCornerAngle="45dp"/>
+                app:spinning_bar_width="4dp" />
 <!--            <com.google.android.material.floatingactionbutton.FloatingActionButton-->
 <!--                android:id="@+id/FindPaper"-->
 <!--                android:layout_width="wrap_content"-->

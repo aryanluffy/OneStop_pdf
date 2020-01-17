@@ -3548,6 +3548,10 @@
         "source": "/home/aryan/Videos/onestoppdf/app/src/main/res/drawable/ic_query_builder_24dp.xml"
     },
     {
+        "merged": "/home/aryan/Videos/onestoppdf/app/build/intermediates/res/merged/debug/drawable_ic_search_white_128dp.xml.flat",
+        "source": "/home/aryan/Videos/onestoppdf/app/src/main/res/drawable/ic_search_white_128dp.xml"
+    },
+    {
         "merged": "/home/aryan/Videos/onestoppdf/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
     },

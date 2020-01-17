@@ -614,22 +614,22 @@ public final class R {
         public static final int arrow = 0x7f080061;
         public static final int drop_down_shadow = 0x7f08009f;
         public static final int ic_arrow_drop_down_black_24dp = 0x7f0800b6;
-        public static final int notification_action_background = 0x7f08012b;
-        public static final int notification_bg = 0x7f08012c;
-        public static final int notification_bg_low = 0x7f08012d;
-        public static final int notification_bg_low_normal = 0x7f08012e;
-        public static final int notification_bg_low_pressed = 0x7f08012f;
-        public static final int notification_bg_normal = 0x7f080130;
-        public static final int notification_bg_normal_pressed = 0x7f080131;
-        public static final int notification_icon_background = 0x7f080132;
-        public static final int notification_template_icon_bg = 0x7f080133;
-        public static final int notification_template_icon_low_bg = 0x7f080134;
-        public static final int notification_tile_bg = 0x7f080135;
-        public static final int notify_panel_notification_icon_bg = 0x7f080136;
-        public static final int selector = 0x7f080147;
-        public static final int spinner_drawable = 0x7f08014f;
-        public static final int tooltip_frame_dark = 0x7f080158;
-        public static final int tooltip_frame_light = 0x7f080159;
+        public static final int notification_action_background = 0x7f08012c;
+        public static final int notification_bg = 0x7f08012d;
+        public static final int notification_bg_low = 0x7f08012e;
+        public static final int notification_bg_low_normal = 0x7f08012f;
+        public static final int notification_bg_low_pressed = 0x7f080130;
+        public static final int notification_bg_normal = 0x7f080131;
+        public static final int notification_bg_normal_pressed = 0x7f080132;
+        public static final int notification_icon_background = 0x7f080133;
+        public static final int notification_template_icon_bg = 0x7f080134;
+        public static final int notification_template_icon_low_bg = 0x7f080135;
+        public static final int notification_tile_bg = 0x7f080136;
+        public static final int notify_panel_notification_icon_bg = 0x7f080137;
+        public static final int selector = 0x7f080148;
+        public static final int spinner_drawable = 0x7f080150;
+        public static final int tooltip_frame_dark = 0x7f080159;
+        public static final int tooltip_frame_light = 0x7f08015a;
     }
     public static final class id {
         private id() {}

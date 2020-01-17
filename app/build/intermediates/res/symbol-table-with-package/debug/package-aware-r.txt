@@ -1970,6 +1970,7 @@ drawable ic_save
 drawable ic_school_black_24dp
 drawable ic_search_black_128dp
 drawable ic_search_black_24dp
+drawable ic_search_white_128dp
 drawable ic_send_black_24dp
 drawable ic_star
 drawable ic_star_black_24dp

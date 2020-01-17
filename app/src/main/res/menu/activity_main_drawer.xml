@@ -41,8 +41,8 @@
             <!--android:title="IP Calculator" />-->
         <item
             android:id="@+id/sawaal"
-            android:icon="@drawable/ic_search_black_24dp"
-            android:title="Previous Exam Papers" />
+            android:icon="@drawable/ic_search_white_128dp"
+            android:title="Sawaal" />
 
         <item
             android:id="@+id/contacts"
