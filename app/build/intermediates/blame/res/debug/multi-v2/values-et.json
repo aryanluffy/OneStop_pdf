@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
+            "outputFile": "/home/aryan/onestop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
             "map": [
                 {
-                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/d42c12f6e39477d841cd343875af54ad/res/values-et/values.xml",
+                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/5fc9a21619d70b851e154275556800ec/res/values-et/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "97",
+                        "endOffsets": "302"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "5696",
+                        "endColumns": "101",
+                        "endOffsets": "5793"
+                    }
+                },
+                {
+                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/a92ab753db797347eb57555a001919e0/res/values-et/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -52,23 +69,6 @@
                         "startOffsets": "2827,2932,3126,3255,3365,3574,3705,3851,4182,4401,4511,4706,4840,5054,5229,5322,5417",
                         "endColumns": "104,193,128,109,208,130,145,131,218,109,194,133,213,174,92,94,116",
                         "endOffsets": "2927,3121,3250,3360,3569,3700,3846,3978,4396,4506,4701,4835,5049,5224,5317,5412,5529"
-                    }
-                },
-                {
-                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/res/values-et/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "97",
-                        "endOffsets": "302"
-                    },
-                    "to": {
-                        "startLines": "49",
-                        "startColumns": "4",
-                        "startOffsets": "5696",
-                        "endColumns": "101",
-                        "endOffsets": "5793"
                     }
                 },
                 {

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/home/aryan/onestop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
                     "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/5dd8a091641671cd4c56d872f42cc7ba/res/values-v26/values-v26.xml",

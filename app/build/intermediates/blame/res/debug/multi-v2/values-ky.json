@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "/home/aryan/onestop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/ccc6c438a9ded40053d3a0fa8d76e9a6/res/values-ky/values.xml",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/d42c12f6e39477d841cd343875af54ad/res/values-ky/values.xml",
+                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/a92ab753db797347eb57555a001919e0/res/values-ky/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -69,6 +69,23 @@
                         "startOffsets": "3965",
                         "endColumns": "220",
                         "endOffsets": "4181"
+                    }
+                },
+                {
+                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/5fc9a21619d70b851e154275556800ec/res/values-ky/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "100",
+                        "endOffsets": "305"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "5683",
+                        "endColumns": "104",
+                        "endOffsets": "5783"
                     }
                 },
                 {
@@ -86,23 +103,6 @@
                         "startOffsets": "5520,5591,5788,5866,6189,6358,6439",
                         "endColumns": "70,91,77,140,168,80,78",
                         "endOffsets": "5586,5678,5861,6002,6353,6434,6513"
-                    }
-                },
-                {
-                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/a29294a7dbd3ff96b2589293d99c503a/res/values-ky/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "100",
-                        "endOffsets": "305"
-                    },
-                    "to": {
-                        "startLines": "49",
-                        "startColumns": "4",
-                        "startOffsets": "5683",
-                        "endColumns": "104",
-                        "endOffsets": "5783"
                     }
                 }
             ]

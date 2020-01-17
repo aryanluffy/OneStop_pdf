@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/home/aryan/onestop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/fee34e75b25e9afa7aa0b46284d10f38/res/values-land/values-land.xml",
+                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/80afe24ef59acb516cecfbe88e244ced/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

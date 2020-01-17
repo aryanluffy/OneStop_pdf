@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "outputFile": "/home/aryan/onestop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
                     "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/82cf3dc5e26f4c04294f0c06cc19b12c/res/values-sw360dp-v13/values-sw360dp-v13.xml",

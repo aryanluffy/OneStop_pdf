@@ -14,10 +14,14 @@ import android.os.Environment;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.textfield.TextInputLayout;
 
+import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.appcompat.widget.Toolbar;
 import android.text.Editable;
+import android.text.Spannable;
+import android.text.SpannableString;
 import android.text.TextWatcher;
+import android.text.style.TypefaceSpan;
 import android.transition.Slide;
 import android.util.Log;
 import android.view.Gravity;
@@ -48,7 +52,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
-
 import androidx.fragment.app.FragmentTransaction;
 import br.com.simplepass.loading_button_lib.customViews.CircularProgressButton;
 
@@ -131,10 +134,15 @@ public class FindFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-//        mTopToolbar = (Toolbar) ((AppCompatActivity)getActivity()).findViewById(R.id.toolbar);
+//        Toolbar mTopToolbar = (Toolbar) ((AppCompatActivity)getActivity()).findViewById(R.id.toolbar);
 //        mTopToolbar.setTitle("Find Paper");
         setHasOptionsMenu(true);
+//        SpannableString s = new SpannableString("My Title");
+//        s.setSpan(new TypefaceSpan(this, "MyTypeface.otf"), 0, s.length(),
+//                Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         ((HomeActivity) getActivity()).getSupportActionBar().setTitle("Find Paper");
+
+//        ((HomeActivity) getActivity()).getSupportActionBar();
         return inflater.inflate(R.layout.fragment_find, container, false);
     }
 

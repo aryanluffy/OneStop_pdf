@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aryan/Downloads/Modified_Sawaal_App-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/home/aryan/onestop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/8e3ad010be65252d84c153af45e34ca7/res/values-v11/values-v11.xml",
+                    "source": "/home/aryan/.gradle/caches/transforms-2/files-2.1/b1ca741c440c365cf9f5bce6d967d3f5/res/values-v11/values-v11.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -92,6 +92,10 @@ public class HomeActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         dl.addDrawerListener(t);
         t.syncState();
+//        View decorView = getWindow().getDecorView();
+//        int uiOptions = View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
+//                | View.SYSTEM_UI_FLAG_FULLSCREEN;
+//        decorView.setSystemUiVisibility(uiOptions);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -109,18 +113,18 @@ public class HomeActivity extends AppCompatActivity {
         header.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (SystemClock.elapsedRealtime() - lastClickTime < 1000){
-                    return;
-                }
-                Toast.makeText(getApplicationContext(),"LOL",Toast.LENGTH_SHORT).show();
-                lastClickTime = SystemClock.elapsedRealtime();
-                Intent intent = new Intent(HomeActivity.this, ProfileActivity.class);
-//                startActivity(intent);
-//                intent.putExtra("profileimage", profileimg.getImageMatrix().toString());
-                Pair<View, String> p1 = Pair.create((View)profileimg, "profileimg");
-//                Pair<View, String> p3 = Pair.create((View)cv, "card");
-                ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(HomeActivity.this, p1);
-                ActivityCompat.startActivityForResult(ac, intent, 2, options.toBundle());
+//                if (SystemClock.elapsedRealtime() - lastClickTime < 1000){
+//                    return;
+//                }
+//                Toast.makeText(getApplicationContext(),"LOL",Toast.LENGTH_SHORT).show();
+//                lastClickTime = SystemClock.elapsedRealtime();
+//                Intent intent = new Intent(HomeActivity.this, ProfileActivity.class);
+////                startActivity(intent);
+////                intent.putExtra("profileimage", profileimg.getImageMatrix().toString());
+//                Pair<View, String> p1 = Pair.create((View)profileimg, "profileimg");
+////                Pair<View, String> p3 = Pair.create((View)cv, "card");
+//                ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(HomeActivity.this, p1);
+//                ActivityCompat.startActivityForResult(ac, intent, 2, options.toBundle());
             }
         });
         Intent receivedIntent = getIntent();

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.ramotion.paperonboarding:paper-onboarding:1.1.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ec4d965e957864605667f2c7ddc56a8/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ec4d965e957864605667f2c7ddc56a8/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7efe8f2dbbe618d51e924b6c139ef814/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7efe8f2dbbe618d51e924b6c139ef814/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

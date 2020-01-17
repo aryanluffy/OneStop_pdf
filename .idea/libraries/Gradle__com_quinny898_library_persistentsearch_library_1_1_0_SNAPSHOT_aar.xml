@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93b67aa8fd0553274ca330247fd53363/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3c28db5cd45156dd0eac737a0014c0fa/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93b67aa8fd0553274ca330247fd53363/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93b67aa8fd0553274ca330247fd53363/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3c28db5cd45156dd0eac737a0014c0fa/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3c28db5cd45156dd0eac737a0014c0fa/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
